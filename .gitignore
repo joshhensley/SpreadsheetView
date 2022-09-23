@@ -1,4 +1,16 @@
 .DS_Store
 /.build
 /Packages
-/*.xcodeproj
+
+## CocoaPods
+Pods/
+
+## Carthage
+Carthage/Checkouts
+Carthage/Build
+
+## Bundler
+.bundle
+vendor
+
+coverage.txt
